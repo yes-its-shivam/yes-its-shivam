@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate self taught Data Scientist from India</h3>
 
