@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://github.com/yes-its-shivam/Resume/blob/main/shivam_jindal%20resume_.pdf](https://github.com/yes-its-shivam/Resume/blob/main/shivam_jindal%20resume_.pdf)
 
-- ⚡ Fun fact **:Data Science is fun**
+- ⚡ Fun fact **: Data Science is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
