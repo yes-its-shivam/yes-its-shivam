@@ -3,13 +3,12 @@
 
 - 👨‍💻 Check my portfolio webpage [https://bit.ly/shivamjindal](https://bit.ly/shivamjindal)
 
-- 📄 Find my CV @ https://github.com/yes-its-shivam/Resume/blob/main/shivam_jindal%20resume_.pdf
+- 📄 Find my CV to know more about my experiences @ https://github.com/yes-its-shivam/Resume/blob/main/shivam_jindal%20resume_.pdf
 
 - 📝 I regularly write articles on [https://yes-its-shivam.github.io/ShivamJindal.github.io/microblogs.html](https://yes-its-shivam.github.io/ShivamJindal.github.io/microblogs.html)
 
 - 📫 How to reach me **shivamjindal0705@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/yes-its-shivam/Resume/blob/main/shivam_jindal%20resume_.pdf](https://github.com/yes-its-shivam/Resume/blob/main/shivam_jindal%20resume_.pdf)
 
 - ⚡ Fun fact **: Data Science is fun**
 
