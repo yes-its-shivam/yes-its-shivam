@@ -3,7 +3,7 @@
 
 - 👨‍💻 Check my portfolio webpage [https://bit.ly/shivamjindal](https://bit.ly/shivamjindal)
 
-- 📄 Find my CV @ [https://github.com/yes-its-shivam/Resume/blob/main/shivam_jindal%20resume.pdf](https://drive.google.com/file/d/1192ilJy9Z-9XiipVyKn0VLpfhyyx-LPX/view?usp=sharing)
+- 📄 Find my CV @ [https://drive.google.com/file/d/1192ilJy9Z-9XiipVyKn0VLpfhyyx-LPX/view](https://drive.google.com/file/d/1192ilJy9Z-9XiipVyKn0VLpfhyyx-LPX/view)
 
 - 📝 I regularly write articles on [https://yes-its-shivam.github.io/ShivamJindal.github.io/microblogs.html](https://yes-its-shivam.github.io/ShivamJindal.github.io/microblogs.html)
 
