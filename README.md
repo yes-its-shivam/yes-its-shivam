@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1> 
-<h3 align="center">A passionate self taught Data Scientist from India</h3>
+<h3 align="center">A passionate self taught Artificial Intelligence engineer from India</h3>
 
 - 👨‍💻 Check my portfolio webpage [https://bit.ly/shivamjindal](https://bit.ly/shivamjindal)
 
@@ -9,8 +9,9 @@
 
 - 📫 How to reach me **shivamjindal0705@gmail.com**
 
+- 🤝 If you have some great ideas i am up for collabration
 
-- ⚡ Fun fact **: Data Science is fun**
+- ⚡ Fun fact **: A.I. is the future**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
