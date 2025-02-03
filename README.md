@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1> 
-<h3 align="center">A passionate self taught Artificial Intelligence engineer from India</h3>
+<h3 align="center">self taught Artificial Intelligence guy from India</h3>
 
 - 👨‍💻 Check my portfolio webpage [https://bit.ly/shivamjindal](https://bit.ly/shivamjindal)
 
