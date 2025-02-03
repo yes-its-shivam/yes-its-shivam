@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1> 
 <h3 align="center">self taught Artificial Intelligence guy from India</h3>
 
-- 👨‍💻 Check my portfolio webpage [https://bit.ly/shivamjindal](https://bit.ly/shivamjindal)
-
-- 📄 Find my Resume [here](https://github.com/yes-its-shivam/Resume/blob/main/shivam_jindal%20resume.pdf)
-
-- 📝 My micro blogs [here](https://yes-its-shivam.github.io/ShivamJindal.github.io/microblogs.html)
-
 - 📫 How to reach me **shivamjindal0705@gmail.com**
 
 - 🤝 If you have some great ideas i am up for collabration
