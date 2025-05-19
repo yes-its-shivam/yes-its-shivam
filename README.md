@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shivam</h1> 
-<h3 align="center">self taught Artificial Intelligence guy from India</h3>
+<h1 align="center">Hi 👋</h1> 
+<h3 align="center">imma self taught AI guy from India</h3>
 
 - 📫 How to reach me **shivamjindal0705@gmail.com**
 
